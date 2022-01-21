@@ -1,4 +1,4 @@
-# Exploring Weather Trends project 
+# Exploring Weather Trends project  by *SAMIHA AMROUNE* 
 
 > This project is provided As First project in [UDACITY Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
